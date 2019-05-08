@@ -1,6 +1,4 @@
-﻿
-
-/// <summary>
+﻿/// <summary>
 /// time:2019/5/8
 /// author:Sun
 /// des:Class_静态类拓展
