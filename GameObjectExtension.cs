@@ -64,5 +64,4 @@ public static class GameObjectExtention{
 		obj.SetName(name);
 		return obj;
 	}
-	
 }
