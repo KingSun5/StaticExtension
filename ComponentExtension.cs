@@ -47,6 +47,7 @@ public static class ComponentExtension {
 		entry.callback.AddListener(callback);
 		if (!isExist)
 		{
+			entry.eventID = eventTriggerType;
 			trigger.triggers.Add(entry);
 		}
 	}
